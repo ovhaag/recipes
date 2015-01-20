@@ -1,3 +1,4 @@
 # Recipes
 
-This repository contains recipes for some foods I like.
+This is a repository from a udacity course.
+It contains recipes the teachers like.
